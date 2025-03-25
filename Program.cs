@@ -5,3 +5,4 @@ Console.WriteLine("But i dont love V!!!");
 Console.WriteLine("And O dont love O and A!!!");
 Console.WriteLine("We will go to Krasnodar with O)");
 Console.WriteLine("And with V and E!");
+Console.WriteLine("We will have fun!<3");
